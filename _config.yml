@@ -12,7 +12,7 @@ title                    : "Nanum Jeon"
 title_separator          : "-"
 name                     : &name "Nanum Jeon"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://nanum-jeon.github.io/"
+url                      : https://nanum-jeon.github.io/ # the base hostname & protocol for your site e.g. "https://nanum-jeon.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nanum-jeon/nanum-jeon.github.io/"
 
@@ -26,13 +26,13 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "University of California, Los Angeles"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "njeon@g.ucla.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=orZkbI8AAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -48,7 +48,6 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
