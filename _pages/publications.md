@@ -5,8 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+<style>
+  ul.publications-list li {
+    margin-bottom: 20px; /* Adjust the space as needed */
+    padding-bottom: 10px; /* Additional padding, optional */
+    border-bottom: 1px solid #ccc; /* Optional: adds a line to visually separate items */
+  }
+</style>
 
-<ul>
+<ul class="publications-list">
   <li>
     <strong>Jeon, N. (2023). <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jssr.12826">Swapping gender traditionalism: Christianity, Buddhism, and gender ideology in South Korea</a>. Journal for the Scientific Study of Religion. </strong>
     <a href="#" onclick="toggle_visibility('pub1');">[Abstract]</a>
