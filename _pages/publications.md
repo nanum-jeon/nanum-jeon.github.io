@@ -33,11 +33,11 @@ author_profile: true
 
 <script type="text/javascript">
   function toggle_visibility(id) {
-    var e = document.getElementById(id);
-    if (e.style.display === 'none' || e.style.display === '') {
-      e.style.display = 'block';
-    } else {
-      e.style.display = 'none';
-    }
+    event.preventDefault();
+       var e = document.getElementById(id);
+       if(e.style.display == 'none')
+          e.style.display = 'block';
+       else
+          e.style.display = 'none';
   }
 </script>
