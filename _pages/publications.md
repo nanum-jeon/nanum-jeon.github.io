@@ -33,11 +33,16 @@ author_profile: true
 
 <script type="text/javascript">
   function toggle_visibility(id) {
-    event.preventDefault();
-       var e = document.getElementById(id);
-       if(e.style.display == 'none')
-          e.style.display = 'block';
-       else
-          e.style.display = 'none';
+    event.preventDefault(); // Prevent the default action of the anchor tag
+    var element = document.getElementById(id);
+    if (element.style.display === 'none' || element.style.display === '') {
+      element.style.display = 'block'; // Show the element if it's hidden
+      element.style.marginTop = '10px'; // Adds top margin for spacing
+      element.style.marginBottom = '10px'; // Adds bottom margin for spacing
+    } else {
+      element.style.display = 'none'; // Hide the element if it's shown
+      element.style.marginTop = '0'; // Removes top margin
+      element.style.marginBottom = '0'; // Removes bottom margin
+    }
   }
 </script>
