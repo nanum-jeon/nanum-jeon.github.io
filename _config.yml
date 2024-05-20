@@ -23,11 +23,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Nanum Jeon"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Ph.D. Candidate in Sociology and M.S. Student in Statistics"
-  location         : "Los Angeles, California"
-  employer         : "University of California, Los Angeles"
-  uri              : # URL
+#  location         : "Los Angeles, California"
+#  employer         : "University of California, Los Angeles"
+#  uri              : # URL
   email            : "njeon@g.ucla.edu" 
 
   # Academic websites
