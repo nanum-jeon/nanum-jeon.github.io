@@ -10,7 +10,7 @@ author_profile: true
   <li>
     Jeon, N. (2023). <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jssr.12826">Swapping gender traditionalism: Christianity, Buddhism, and gender ideology in South Korea</a>. Journal for the Scientific Study of Religion.
     <a href="#" onclick="toggle_visibility('pub1');">[Abstract]</a>
-    <div id="pub1" style="display:none;">Abstract details go here...</div>
+    <div id="pub1" style="display:none;"> South Korea provides an ideal setting for studying religion and gender because Western and local religions are both prominent, and Confucianist beliefs still shape gender norms. Using the 2018 Korean General Social Survey, this study examines the extent to which two dimensions of gender traditionalism in South Korea–Confucian patriarchal ideology (i.e., belief in the subordination of women for Confucian patriarchy) and separate spheres ideology (i.e., belief that men are better suited to work and women to domestic responsibilities)—vary across Buddhists, Catholics, Protestants, and the nonaffiliated. The findings show that Christians have the lowest endorsement for Confucian patriarchal ideology while supporting separate spheres ideology as much as Buddhists, who are most gender traditional in both dimensions. The results illustrate the dynamics between religion and gender norms in South Korea's context, demonstrating how Christianity combines Western modernization with gender-essentialist traditionalism, while Buddhism maintains Confucian patriarchal values.</div>
   </li>
   <li>
     Lundberg, I., Brand, J. E., & Jeon, N. (2022). Researcher reasoning meets computational capacity: Machine learning for social science. Social Science Research.
