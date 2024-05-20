@@ -35,6 +35,18 @@ author_profile: true
 </style>
 
 
+<script type="text/javascript">
+  function toggle_visibility(id) {
+    event.preventDefault();
+    var element = document.getElementById(id);
+    if (element.style.display === 'none' || element.style.display === '') {
+      element.style.display = 'block';
+    } else {
+      element.style.display = 'none';
+    }
+  }
+</script>
+
 
 
 <ul class="publications-list">
