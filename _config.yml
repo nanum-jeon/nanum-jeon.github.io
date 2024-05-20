@@ -12,7 +12,7 @@ title                    : "Nanum Jeon"
 title_separator          : "-"
 name                     : &name "Nanum Jeon"
 description              : &description "personal description"
-url                      : https://nanum-jeon.github.io/ # the base hostname & protocol for your site e.g. "https://nanum-jeon.github.io/"
+url                      : https:/nanumjeon.org # the base hostname & protocol for your site e.g. "https://nanum-jeon.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nanum-jeon/nanum-jeon.github.io/"
 
@@ -26,7 +26,7 @@ author:
 #  pronouns         : "she/her"  
   bio              : "Ph.D. Candidate in Sociology and M.S. Student in Statistics & Data Science at UCLA"
 #  location         : "Los Angeles, California"
-  employer         : "UCLA"
+#  employer         : "UCLA"
 #  uri              : # URL
   email            : "njeon@g.ucla.edu" 
 
