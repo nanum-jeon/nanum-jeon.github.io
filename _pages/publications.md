@@ -9,7 +9,7 @@ author_profile: true
   ul.publications-list li {
     margin-bottom: 20px; /* Adjust the space as needed */
     padding-bottom: 10px; /* Additional padding, optional */
-    border-bottom: 1px solid #ccc; /* Optional: adds a line to visually separate items */
+  # border-bottom: 1px solid #ccc; /* Optional: adds a line to visually separate items */
   }
 </style>
 
