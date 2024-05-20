@@ -7,8 +7,10 @@ author_profile: true
 
 <style>
   ul.publications-list {
-   # list-style-type: none; /* Removes default bullet points */
+    list-style-type: none; /* Removes default bullet points */
     padding-left: 0; /* Removes default padding */
+    margin-left: 20px; /* Adds left margin to prevent edge overlap */
+    margin-right: 20px; /* Adds right margin for consistent spacing */
   }
 
   ul.publications-list li {
@@ -21,7 +23,15 @@ author_profile: true
     display: none; /* Hides the abstract by default */
     padding-top: 20px; /* Top padding when abstract is shown */
   }
+
+  @media (max-width: 768px) { /* Adjusts for devices with width up to 768px */
+    ul.publications-list {
+      margin-left: 10px; /* Reduces left margin on smaller screens */
+      margin-right: 10px; /* Reduces right margin on smaller screens */
+    }
+  }
 </style>
+
 
 <script type="text/javascript">
   function toggle_visibility(id) {
