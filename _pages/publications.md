@@ -5,12 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+Jeon, N. (2023). Swapping gender traditionalism: Christianity, Buddhism, and gender ideology in South Korea. Journal for the Scientific Study of Religion.
 
-{% include base_path %}
+Lundberg, I., Brand, J. E., & Jeon, N. (2022). Researcher reasoning meets computational capacity: Machine learning for social science. Social Science Research.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Quadlin, N., Jeon, N., Doan, L., & Powell, B. (2022). Untangling perceptions of atypical parents. Journal of Marriage and Family.
