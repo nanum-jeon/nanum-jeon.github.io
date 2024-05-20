@@ -6,10 +6,9 @@ author_profile: true
 ---
 
 
-<h2>Publications</h2>
 <ul>
   <li>
-    Jeon, N. (2023). Swapping gender traditionalism: Christianity, Buddhism, and gender ideology in South Korea. Journal for the Scientific Study of Religion.
+    Jeon, N. (2023). [Swapping gender traditionalism: Christianity, Buddhism, and gender ideology in South Korea](https://onlinelibrary.wiley.com/doi/full/10.1111/jssr.12826). Journal for the Scientific Study of Religion.
     <a href="#" onclick="toggle_visibility('pub1');">[Abstract]</a>
     <div id="pub1" style="display:none;">Abstract details go here...</div>
   </li>
