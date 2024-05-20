@@ -25,7 +25,7 @@ author:
   name             : "Nanum Jeon"
 #  pronouns         : "she/her"  
   bio              : "Ph.D. Candidate in Sociology and M.S. Student in Statistics"
-  location         : "Los Angeles, California"
+#  location         : "Los Angeles, California"
   employer         : "UCLA"
 #  uri              : # URL
   email            : "njeon@g.ucla.edu" 
@@ -34,14 +34,14 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=orZkbI8AAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+#  orcid            : "http://orcid.org/yourorcidurl"
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+#  github           : "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
