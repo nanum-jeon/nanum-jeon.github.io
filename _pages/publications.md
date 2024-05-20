@@ -6,12 +6,35 @@ author_profile: true
 ---
 
 <style>
+  ul.publications-list {
+    list-style-type: none; /* Removes default bullet points */
+    padding-left: 0; /* Removes default padding */
+  }
+
   ul.publications-list li {
-    margin-bottom: 20px; /* Adjust the space as needed */
-    padding-bottom: 10px; /* Additional padding, optional */
-  # border-bottom: 1px solid #ccc; /* Optional: adds a line to visually separate items */
+    margin-bottom: 20px; /* Adds space between list items */
+    padding-bottom: 10px; /* Additional padding at the bottom */
+    border-bottom: 1px solid #ccc; /* Adds a subtle line to separate items */
+  }
+
+  .abstract-content {
+    display: none; /* Hides the abstract by default */
+    padding-top: 10px; /* Top padding when abstract is shown */
   }
 </style>
+
+<script type="text/javascript">
+  function toggle_visibility(id) {
+    event.preventDefault();
+    var element = document.getElementById(id);
+    if (element.style.display === 'none' || element.style.display === '') {
+      element.style.display = 'block';
+    } else {
+      element.style.display = 'none';
+    }
+  }
+</script>
+
 
 <ul class="publications-list">
   <li>
@@ -31,18 +54,4 @@ author_profile: true
   </li>
 </ul>
 
-<script type="text/javascript">
-  function toggle_visibility(id) {
-    event.preventDefault(); // Prevent the default action of the anchor tag
-    var element = document.getElementById(id);
-    if (element.style.display === 'none' || element.style.display === '') {
-      element.style.display = 'block'; // Show the element if it's hidden
-      element.style.marginTop = '10px'; // Adds top margin for spacing
-      element.style.marginBottom = '10px'; // Adds bottom margin for spacing
-    } else {
-      element.style.display = 'none'; // Hide the element if it's shown
-      element.style.marginTop = '0'; // Removes top margin
-      element.style.marginBottom = '0'; // Removes bottom margin
-    }
-  }
-</script>
+
