@@ -11,12 +11,17 @@ author_profile: true
     padding-left: 0; /* Removes default padding */
     margin-left: 20px; /* Adds left margin to prevent edge overlap */
     margin-right: 20px; /* Adds right margin for consistent spacing */
+    -webkit-margin-before: 1em; /* Top margin for WebKit browsers */
+    -webkit-margin-after: 1em; /* Bottom margin for WebKit browsers */
+    -webkit-margin-start: 0px; /* Left margin for WebKit browsers, set to 0 */
+    -webkit-margin-end: 0px; /* Right margin for WebKit browsers, set to 0 */
   }
 
   ul.publications-list li {
     margin-bottom: 20px; /* Adds space between list items */
     padding-bottom: 10px; /* Additional padding at the bottom */
     border-bottom: 1px solid #ccc; /* Adds a subtle line to separate items */
+    -webkit-padding-start: 40px; /* Left padding for WebKit browsers */
   }
 
   .abstract-content {
@@ -28,22 +33,12 @@ author_profile: true
     ul.publications-list {
       margin-left: 10px; /* Reduces left margin on smaller screens */
       margin-right: 10px; /* Reduces right margin on smaller screens */
+      -webkit-margin-start: 10px; /* Reduces left margin for WebKit browsers on smaller screens */
+      -webkit-margin-end: 10px; /* Reduces right margin for WebKit browsers on smaller screens */
     }
   }
 </style>
 
-
-<script type="text/javascript">
-  function toggle_visibility(id) {
-    event.preventDefault();
-    var element = document.getElementById(id);
-    if (element.style.display === 'none' || element.style.display === '') {
-      element.style.display = 'block';
-    } else {
-      element.style.display = 'none';
-    }
-  }
-</script>
 
 
 <ul class="publications-list">
