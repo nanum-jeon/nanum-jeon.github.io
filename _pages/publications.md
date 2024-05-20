@@ -19,7 +19,7 @@ author_profile: true
 
   .abstract-content {
     display: none; /* Hides the abstract by default */
-    padding-top: 10px; /* Top padding when abstract is shown */
+    padding-top: 20px; /* Top padding when abstract is shown */
   }
 </style>
 
