@@ -10,8 +10,8 @@ author_profile: true
     list-style-type: none; /* Removes default bullet points */
     padding-left: 0; /* Removes default padding */
     margin-top: 30px; /* Adds top margin to create space below the title */
-    margin-left: 20px; /* Adds left margin to prevent edge overlap */
-    margin-right: 20px; /* Adds right margin for consistent spacing */
+ #   margin-left: 20px; /* Adds left margin to prevent edge overlap */
+ #   margin-right: 20px; /* Adds right margin for consistent spacing */
   }
 
   ul.publications-list li {
@@ -28,8 +28,8 @@ author_profile: true
   @media (max-width: 768px) { /* Adjusts for devices with width up to 768px */
     ul.publications-list {
       margin-top: 20px; /* Reduces top margin on smaller screens */
-      margin-left: 10px; /* Reduces left margin on smaller screens */
-      margin-right: 10px; /* Reduces right margin on smaller screens */
+   #   margin-left: 10px; /* Reduces left margin on smaller screens */
+   #   margin-right: 10px; /* Reduces right margin on smaller screens */
     }
   }
 </style>
