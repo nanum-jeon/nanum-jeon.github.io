@@ -26,6 +26,6 @@ Otherwise, you can find it below.
   }
 </style>
 
-<iframe src="{{ site.baseurl }}/files/CV_NJ_20231127.pdf" frameborder="0">
-  This browser does not support PDFs. Please download the PDF to view it: <a href="{{ site.baseurl }}/files/CV_NJ_20231127.pdf">Download PDF</a>.
+<iframe src="{{ site.baseurl }}/files/CV_NJ_202405.pdf" frameborder="0">
+  This browser does not support PDFs. Please download the PDF to view it: <a href="{{ site.baseurl }}/files/CV_NJ_202405.pdf">Download PDF</a>.
 </iframe>
