@@ -1,3 +1,14 @@
+---
+title: 'Blog Post number 5'
+date: 2023-08-14
+permalink: /posts/2023/08/blog-post-5/
+tags:
+  - cool posts
+  - category1
+  - category2
+---
+
+    
     #####################################################################################################
     #### REPLICATIONS FOR: "An Introduction to G-Methods" by NANUM JEON #################################
     #### ORIGINAL AUTHORS: ASHLEY I NAIMI (ashley.naimi@pitt.edu), EDWARD H KENNEDY, STEPHEN R COLE    ##
