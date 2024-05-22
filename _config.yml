@@ -188,6 +188,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  tutorials:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -196,6 +199,17 @@ defaults:
   - scope:
       path: ""
       type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+   # _tutorials
+  - scope:
+      path: ""
+      type: tutorials
     values:
       layout: single
       author_profile: true
