@@ -9,7 +9,6 @@ redirect_from:
 
 You can download my CV [here](/files/CV_NJ.pdf).  
 
-Otherwise, you can find it below.
 
 <style>
   iframe {
@@ -27,6 +26,6 @@ Otherwise, you can find it below.
   }
 </style>
 
-<iframe src="{{ site.baseurl }}/files/CV_NJ.pdf" frameborder="0">
+<iframe src="{{ site.baseurl }}/files/CV_NJ.pdf" frameborder="0", style="width: 100%; height: 600px; overflow: auto;">
   This browser does not support PDFs. Please download the PDF to view it: <a href="{{ site.baseurl }}/files/CV_NJ.pdf">Download PDF</a>.
 </iframe>
