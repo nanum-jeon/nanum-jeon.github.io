@@ -48,8 +48,6 @@ Methodologically, I specialize in applying and developing statistical and machin
     font-size: 18px; /* Increases font size for better visibility */
     margin-bottom: 5px; /* Adds spacing below the year title */
     cursor: pointer; /* Indicates that the title is clickable */
-    color: #007BFF; /* Adds a clickable link color */
-    text-decoration: underline; /* Makes it look like a link */
   }
 
   .news-content ul {
@@ -88,8 +86,7 @@ Methodologically, I specialize in applying and developing statistical and machin
     <div class="news-content">
       <ul>
         <li>Dec 2024: I will be serving on the organizing committee for the 2025 RC28 UCLA Summer Meeting.</li>
-        <li>Oct 2024: I am organizing a regular session.</li>
-        <li>July 2024: I presented at the IC2S2.</li>
+        <li>Oct 2024: I am organizing a regular session on Work and Family for the 2025 Annual Meeting of American Sociological Association. </li>
         <li>Feb 2024: I was awarded a UCLA dissertation fellowship.</li>
       </ul>
     </div>
@@ -102,7 +99,7 @@ Methodologically, I specialize in applying and developing statistical and machin
       <ul>
         <li>08/21/2023: XX.</li>
         <li>08/03/2023: o.</li>
-        <li>07/29/2023: DD.</li>
+        <li>June 2023: DD.</li>
       </ul>
     </div>
   </li>
