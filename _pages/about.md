@@ -97,9 +97,7 @@ Methodologically, I specialize in applying and developing statistical and machin
     <div class="year-title" onclick="toggle_visibility(event, 'news-2023');">2023</div>
     <div id="news-2023" class="news-content hidden">
       <ul>
-        <li>08/21/2023: XX.</li>
-        <li>08/03/2023: o.</li>
-        <li>June 2023: DD.</li>
+        <li>June 2023: I organized  SICSS (Summer Institute in Computational Social Science)-UCLA with a focus on causal inference </li>
       </ul>
     </div>
   </li>
