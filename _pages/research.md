@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Agenda: Understanding Life Course Inequalities"
+title: "Research: Understanding Life Course Inequalities"
 permalink: /research/
 author_profile: true
 header:
