@@ -22,24 +22,31 @@ Methodologically, I specialize in applying and developing statistical and machin
 **I will be on the academic job market for the 2025–2026 academic year**, seeking tenure-track faculty positions in sociology or related fields, as well as postdoctoral opportunities. For further details about my research and teaching, please see my full [CV](/files/CV_NJ.pdf). 
 
 
-## Recent News
-
+## News
 <style>
   ul.news-list {
     list-style-type: none; /* Removes default bullet points */
     padding-left: 0; /* Removes default padding */
-    margin-top: 30px; /* Adds top margin to create space below the title */
+    margin-top: 30px; /* Adds top margin */
   }
 
   ul.news-list li {
-    margin-bottom: 20px; /* Adds space between list items */
-    padding-bottom: 10px; /* Additional padding at the bottom */
-    border-bottom: 1px solid #ccc; /* Adds a subtle line to separate items */
+    margin-bottom: 20px; /* Adds space between news blocks */
   }
 
   .news-content {
-    display: none; /* Hides the abstract by default */
-    padding-top: 20px; /* Top padding when abstract is shown */
+    display: block; /* Makes news content visible by default */
+    padding-top: 10px; /* Adds spacing above content */
+  }
+
+  .news-content ul {
+    list-style-type: none; /* Removes bullet points for inner lists */
+    padding-left: 0; /* Removes padding for inner lists */
+    margin: 0; /* Removes margin for inner lists */
+  }
+
+  .news-content ul li {
+    margin-bottom: 5px; /* Adds spacing between items in the same block */
   }
 
   @media (max-width: 768px) { /* Adjusts for devices with width up to 768px */
@@ -49,29 +56,25 @@ Methodologically, I specialize in applying and developing statistical and machin
   }
 </style>
 
-<script type="text/javascript">
-  function toggle_visibility(event, id) {
-    event.preventDefault();
-    var element = document.getElementById(id);
-    if (element.style.display === 'none' || element.style.display === '') {
-      element.style.display = 'block';
-    } else {
-      element.style.display = 'none';
-    }
-  }
-</script>
-
 <ul class="news-list">
   <li>
-    <a href="#" onclick="toggle_visibility(event, 'pub1');">[2024 News]</a>
-    <div id="pub1" class="news-content"> 
+    <div class="news-content">
       <ul>
-        <li>Dec 2024: I will be serving for the organizing committee for the RC28 UCLA Summer Meeting, 2025.</li>
-        <li>Nov 2024: I am organizing a regular session (Work and Family) for the Annual Meeting of the American Sociological Association.</li>
+        <li>11/17/2024: My paper with Qi Zheng won the Best Student Paper Award of the East Asia Special Interest Group of Comparative and International Education Society.</li>
+        <li>10/31/2024: Nonparametric Causal Decomposition of Group Disparities has been accepted at Annals of Applied Statistics!</li>
+        <li>10/24/2024: At the International Biometric Conference in December, I will present Detecting and Understanding the Difference between Natural Mediation Effects and Their Randomized Interventional Analogues.</li>
+      </ul>
+    </div>
+  </li>
+  <li>
+    <div class="news-content">
+      <ul>
+        <li>08/21/2024: A new version of Counterfactual Slopes and Their Applications in Social Stratification has been posted on ArXiv.</li>
+        <li>08/03/2024: I released a blog post Logit models don’t make mistakes, people do.</li>
+        <li>07/29/2024: A new version of Nonparametric Causal Decomposition of Group Disparities has been posted on ArXiv.</li>
       </ul>
     </div>
   </li>
 </ul>
-
 
 
