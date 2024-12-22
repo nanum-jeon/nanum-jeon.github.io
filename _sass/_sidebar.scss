@@ -95,7 +95,7 @@
     border-radius: 50%;
 
     @include breakpoint($large) {
-      padding: 15px;
+      padding: 5px;
       border: 1px solid $border-color;
     }
   }
