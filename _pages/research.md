@@ -14,9 +14,9 @@ Specifically, my research highlights intra-group inequality by race and gender. 
 
 To address these complex dynamics over the life course, my work integrates the following approaches:
 
-* Life course perspective: Investigating how differential engagements with social institutions, as reflected in life course trajectories, moderate stratification processes.
-* Institutional perspective: Examining how welfare state policies and mobility regimes shape inter- and intra-group inequalities.
-* Infracategorical perspective: Highlighting nuance and diversity within specific categories, emphasizing how intersecting identities create varied life course outcomes even within seemingly homogeneous groups.
+* **Life course perspective**: Investigating how differential engagements with social institutions, as reflected in life course trajectories, moderate stratification processes.
+* **Institutional perspective**: Examining how welfare state policies and mobility regimes shape inter- and intra-group inequalities.
+* **Infracategorical perspective**: Highlighting nuance and diversity within specific categories, emphasizing how intersecting identities create varied life course outcomes even within seemingly homogeneous groups.
 
 Driven by a commitment to understanding how social inequalities evolve and compound over time, I work extensively with longitudinal panel data. These datasets capture the temporal dynamics of social phenomena, offering a level of complexity that rivals traditional ‘big data.’ To advance this research, I develop and apply innovative statistical and machine learning methods—particularly deep learning approaches—to model non-linear relationships of time-varying variables for longitudinal causal inference.
 
