@@ -1,14 +1,13 @@
 ---
 layout: archive
-title: ""
+title: "Teaching: Sociology as a Catalyst for Social Change"
 permalink: /teaching/
 author_profile: true
 ---
 
-## Sociology as a Catalyst for Social Change 
 Sociology education empowers students to think critically about society and contribute meaningfully to policy-making through rigorous data analysis. By examining the interplay between social structures and individual agency, students learn to understand how historical, economic, and cultural contexts shape human behavior. Integrating data science with sociological analysis allows us to uncover patterns that inform evidence-based policy decisions—crucial for addressing systemic inequity and promoting social change.
 
-## Teaching Philosophy
+## Philosophy
 My goal is to inspire students to harness sociology's analytical power while developing practical skills in data science. I create an environment where students:
 
 * Learn to integrate quantitative analysis with sociological theory
@@ -17,7 +16,7 @@ My goal is to inspire students to harness sociology's analytical power while dev
 * Build practical skills for social research and analysis
 
 
-## Teaching Experience
+## Experience
 
 ### [Asian Development Bank Institute, Tokyo](https://www.adb.org/adbi/main)
 * Designed and led over 50 policy dialogues and training programs
