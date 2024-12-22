@@ -17,9 +17,9 @@ My research particularly highlights **intra-group inequality by race and gender*
 
 My research integrates three key perspectives:
 
-* **Life Course Perspective**: How do different engagements with social institutions across time affect inequality?
-* **Institutional Analysis**: How do welfare state institutions influence social disparities?
-* **Infracategorical Approach**: How do intersecting identities create varied outcomes within seemingly similar groups?
+* **Life Course Perspective**: How do timing, duration, and sequences of divergent life trajectories create lasting inequalities?
+* **Institutional Analysis**: How do welfare state and mobility regimes shape the distribution of life risks and opportunities?
+* **Infracategorical Approach**: How do intersecting identities and resources create heterogeneous outcomes within seemingly similar groups?
 
 To capture these complex dynamics, I work with longitudinal panel data and develop innovative statistical and machine learning methods, particularly deep learning approaches. This allows me to model non-linear relationships of time-varying variables for longitudinal causal inference.
 
