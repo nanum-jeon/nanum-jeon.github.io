@@ -94,7 +94,9 @@ Methodologically, I specialize in applying and developing statistical and machin
 
   <!-- 2023 News - Hidden by Default -->
   <li>
+    <a href="#news-2023">
     <div class="year-title" onclick="toggle_visibility(event, 'news-2023');">2023</div>
+</a>
     <div id="news-2023" class="news-content hidden">
       <ul>
         <li>June 2023: I organized  SICSS (Summer Institute in Computational Social Science)-UCLA with a focus on causal inference </li>
@@ -102,6 +104,7 @@ Methodologically, I specialize in applying and developing statistical and machin
     </div>
   </li>
 </ul>
+
 
 
 
