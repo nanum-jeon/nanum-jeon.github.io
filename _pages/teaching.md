@@ -21,13 +21,13 @@ My goal is to inspire students to harness sociology's analytical power while dev
 
 ## Teaching Experience
 
-# Asian Development Bank Institute, Tokyo
+### [Asian Development Bank Institute, Tokyo](https://www.adb.org/adbi/main)
 * Designed and led over 50 policy dialogues and training programs
 * Collaborated with Stanford University Leadership Academy
 * Helped created e-learning programs for government officials
 * Facilitated discussions on development practices across Asia
 
-# Summer Institute in Computational Social Science (SICSS)
+### [Summer Institute in Computational Social Science (SICSS)-UCLA](https://sicss.io/2023/ucla/)
 * Co-organized UCLA's SICSS program
 * Delivered lectures on machine learning applications in social sciences
 * Taught integration of computational methods with sociological research
