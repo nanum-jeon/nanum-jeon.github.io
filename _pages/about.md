@@ -35,8 +35,12 @@ Methodologically, I specialize in applying and developing statistical and machin
   }
 
   .news-content {
-    display: block; /* Makes news content visible by default */
+    display: block; /* Default visibility for 2024 news */
     padding-top: 10px; /* Adds spacing above content */
+  }
+
+  .news-content.hidden {
+    display: none; /* Hidden by default for previous years */
   }
 
   .news-content ul {
@@ -56,8 +60,22 @@ Methodologically, I specialize in applying and developing statistical and machin
   }
 </style>
 
+<script>
+  function toggle_visibility(event, id) {
+    event.preventDefault();
+    var element = document.getElementById(id);
+    if (element.classList.contains('hidden')) {
+      element.classList.remove('hidden');
+    } else {
+      element.classList.add('hidden');
+    }
+  }
+</script>
+
 <ul class="news-list">
+  <!-- 2024 News - Visible by Default -->
   <li>
+    <strong>2024 News</strong>
     <div class="news-content">
       <ul>
         <li>11/17/2024: My paper with Qi Zheng won the Best Student Paper Award of the East Asia Special Interest Group of Comparative and International Education Society.</li>
@@ -66,12 +84,15 @@ Methodologically, I specialize in applying and developing statistical and machin
       </ul>
     </div>
   </li>
+
+  <!-- 2023 News - Hidden by Default -->
   <li>
-    <div class="news-content">
+    <a href="#" onclick="toggle_visibility(event, 'news-2023');">[Toggle 2023 News]</a>
+    <div id="news-2023" class="news-content hidden">
       <ul>
-        <li>08/21/2024: A new version of Counterfactual Slopes and Their Applications in Social Stratification has been posted on ArXiv.</li>
-        <li>08/03/2024: I released a blog post Logit models don’t make mistakes, people do.</li>
-        <li>07/29/2024: A new version of Nonparametric Causal Decomposition of Group Disparities has been posted on ArXiv.</li>
+        <li>08/21/2023: A new version of Counterfactual Slopes and Their Applications in Social Stratification has been posted on ArXiv.</li>
+        <li>08/03/2023: I released a blog post Logit models don’t make mistakes, people do.</li>
+        <li>07/29/2023: A new version of Nonparametric Causal Decomposition of Group Disparities has been posted on ArXiv.</li>
       </ul>
     </div>
   </li>
