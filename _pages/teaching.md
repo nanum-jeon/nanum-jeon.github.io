@@ -3,8 +3,6 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
-header:
-  og_image: "teaching/ecdf.png"
 ---
 
 ## Sociology as a Catalyst for Social Change 
