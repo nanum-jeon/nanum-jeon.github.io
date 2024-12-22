@@ -8,18 +8,28 @@ header:
 ---
 
 ## Sociology as a Catalyst for Social Change 
-Sociology education can be a powerful engine of social change by empowering students to think critically, rigorously study society using ever-increasing amounts of data, and contribute to policy-making. By examining the interplay between social structures and individual agency, we can achieve a positive social impact. Sociology provides a unique lens that allows us to understand how historical, economic, and cultural contexts influence individual and group behaviors. Furthermore, we can learn to uncover patterns and relationships that inform evidence-based policy decisions by integrating data science with sociology. This approach enables to gain deeper insights into the mechanisms that maintain social order and drive social change, which is crucial for developing policies and interventions that address systemic inequity and promote equity.
+Sociology education empowers students to think critically about society and contribute meaningfully to policy-making through rigorous data analysis. By examining the interplay between social structures and individual agency, students learn to understand how historical, economic, and cultural contexts shape human behavior. Integrating data science with sociological analysis allows us to uncover patterns that inform evidence-based policy decisions—crucial for addressing systemic inequity and promoting social change.
 
-## My Educational Mission
+## Teaching Philosophy
+My goal is to inspire students to harness sociology's analytical power while developing practical skills in data science. I create an environment where students:
 
-As an educator, I aim to inspire students to harness the empowering value of sociology. My goal is to equip them with the skills to integrate data science into sociological analyses, enabling them to make meaningful contributions to society as future leaders and social scientists. Drawing from my expertise in sociology, public policy, and data science, I provide a comprehensive and practical education that prepares students to become informed and proactive changemakers.
+* Learn to integrate quantitative analysis with sociological theory
+* Develop critical thinking about social structures and inequality
+* Apply their knowledge to real-world policy challenges
+* Build practical skills for social research and analysis
 
-## Experience in Education and Training
 
-My educational experience spans research and professional roles in sociology, public policy, and data science. As a Capacity Building and Training Associate at the Asian Development Bank Institute (Tokyo, Japan), I designed, organized, and evaluated over 50 policy dialogues, training sessions, and e-learning programs for Asian government officials. These programs included collaborations with institutions like Stanford University for the Leadership Academy, fostering discussions on development practices and country experiences.
+## Teaching Experience
 
-At UCLA, I designed and led discussion sections for courses such as Sociology of Education and Occupations and Professions, incorporating case studies and policy debates to enhance student engagement. My approach emphasized the civic value of sociological theories in addressing social problems, supported by detailed and individualized feedback to encourage student growth.
+# Asian Development Bank Institute, Tokyo
+* Designed and led over 50 policy dialogues and training programs
+* Collaborated with Stanford University Leadership Academy
+* Helped created e-learning programs for government officials
+* Facilitated discussions on development practices across Asia
 
-I also co-organized the Summer Institute in Computational Social Science (SICSS) at UCLA, delivering guest lectures on the applications of machine learning in the social sciences. These sessions showcased how data science tools can rigorously analyze societal dynamics, building a foundation for addressing pressing social issues.
+# Summer Institute in Computational Social Science (SICSS)
+* Co-organized UCLA's SICSS program
+* Delivered lectures on machine learning applications in social sciences
+* Taught integration of computational methods with sociological research
 
-Through these experiences, I strive to empower students with the knowledge and skills to understand society and create a meaningful impact.
+Through these experiences, I've developed an approach that combines theoretical rigor with practical applications, preparing students to become thoughtful analysts of social phenomena and effective agents of change.
