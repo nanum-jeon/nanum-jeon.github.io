@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome! I am a Ph.D. candidate in [Sociology](https://soc.ucla.edu/) and an M.S. student in [Statistics and Data Science](https://statistics.ucla.edu/) at the University of California, Los Angeles (UCLA). I am affiliated with the [Inequality Data Science Lab (IDS-Lab)](https://www.inequalitydatasciencelab.org/) and the [California Center for Population Research (CCPR)](https://ccpr.ucla.edu/). Prior to UCLA, I worked in public policy think tanks, including the [Asian Development Bank Institute](https://www.adb.org/adbi/main) in Tokyo, Japan. I hold an M.P.P. from the University of Tokyo in Japan and a B.A. in Sociology from Ewha Womans University in South Korea.
+## Welcome! 
+I am a Ph.D. candidate in [Sociology](https://soc.ucla.edu/) and an M.S. student in [Statistics and Data Science](https://statistics.ucla.edu/) at the University of California, Los Angeles (UCLA). I am affiliated with the [Inequality Data Science Lab (IDS-Lab)](https://www.inequalitydatasciencelab.org/) and the [California Center for Population Research (CCPR)](https://ccpr.ucla.edu/). Prior to UCLA, I worked in public policy think tanks, including the [Asian Development Bank Institute](https://www.adb.org/adbi/main) in Tokyo, Japan. I hold an M.P.P. from the University of Tokyo in Japan and a B.A. in Sociology from Ewha Womans University in South Korea.
 
 ## Research Interests 
 My research focuses on the following key areas: (1) **The intersection of social stratification and life course studies**, using disruptive life events—such as divorce or job displacement—as critical lenses to examine inequality. (2) **Intra-group inequality over the life course**, analyzing how race, gender, and other intersecting identities create divergent trajectories within social groups. (3) **The application and development of statistical and machine learning methods**, advancing sociological research and addressing questions of causality.
