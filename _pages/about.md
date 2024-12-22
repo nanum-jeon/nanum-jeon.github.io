@@ -53,6 +53,13 @@ Methodologically, I specialize in applying and developing statistical and machin
     margin-bottom: 5px; /* Adds spacing between items in the same block */
   }
 
+  .year-title {
+    font-weight: bold; /* Makes the year title bold */
+    font-size: 18px; /* Increases font size for better visibility */
+    margin-bottom: 5px; /* Adds spacing below the year title */
+  }
+
+
   @media (max-width: 768px) { /* Adjusts for devices with width up to 768px */
     ul.news-list {
       margin-top: 20px; /* Reduces top margin on smaller screens */
@@ -75,7 +82,7 @@ Methodologically, I specialize in applying and developing statistical and machin
 <ul class="news-list">
   <!-- 2024 News - Visible by Default -->
   <li>
-    <strong>2024 News</strong>
+    <div class="year-title">2024 News</div> 
     <div class="news-content">
       <ul>
         <li>11/17/2024: My paper with Qi Zheng won the Best Student Paper Award of the East Asia Special Interest Group of Comparative and International Education Society.</li>
@@ -87,6 +94,7 @@ Methodologically, I specialize in applying and developing statistical and machin
 
   <!-- 2023 News - Hidden by Default -->
   <li>
+    <div class="year-title">2023 News</div> 
     <a href="#" onclick="toggle_visibility(event, 'news-2023');">[Toggle 2023 News]</a>
     <div id="news-2023" class="news-content hidden">
       <ul>
