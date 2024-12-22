@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Research"
+title: ""
 permalink: /research/
 author_profile: true
 header:
   og_image: "research/ecdf.png"
 ---
 
-## Understanding Life Course Inequalities 
+## Research Agenda: Understanding Life Course Inequalities 
 
 My research bridges **two key fields in sociology**. The first examines how **welfare state systems and mobility regimes** shape life risks and disruptions, fundamentally influencing patterns of social inequality. The second investigates how **social institutions structure life trajectories**, exploring how they can either reinforce or mitigate social stratification. By connecting these distinct areas of inquiry, I examine how life risks unfold over time, materialize, and lead to specific consequences for social inequality.
 
