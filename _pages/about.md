@@ -33,7 +33,6 @@ Methodologically, I specialize in applying and developing statistical and machin
   }
 
   ul.news-list li {
-    font-size: 16px; /* Explicitly set the font size for list items */
     margin-bottom: 20px; /* Adds space between news blocks */
   }
 
@@ -48,7 +47,7 @@ Methodologically, I specialize in applying and developing statistical and machin
 
   .year-title {
     font-weight: bold; /* Makes the year title bold */
-    font-size: 18px; /* Increases font size for better visibility */
+    font-size: 20px; /* Increases font size for better visibility */
     margin-bottom: 5px; /* Adds spacing below the year title */
     cursor: pointer; /* Indicates that the title is clickable */
   }
