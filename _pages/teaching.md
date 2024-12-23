@@ -19,13 +19,12 @@ My goal is to inspire students to harness sociology's analytical power while dev
 ------
 Drawing from the experiences below, I have developed an approach that integrates theoretical frameworks with advanced methodological techniques, empowering students to critically analyze social phenomena using rigorous quantitative tools.
 
-### [Asian Development Bank Institute, Tokyo](https://www.adb.org/adbi/main)
+### [Capacity Building and Training Associate, Asian Development Bank Institute, Tokyo](https://www.adb.org/adbi/main](https://youtu.be/KPDE8us8jNg?si=eTsjLO3sBxVc8WgS)
 * Designed policy dialogues and training programs 
 * Collaborated with Stanford University Leadership Academy
 * Helped created e-learning programs for government officials
 * Facilitated discussions on development practices across Asia
 
-### [Summer Institute in Computational Social Science (SICSS)-UCLA](https://sicss.io/2023/ucla/)
-* Co-organized UCLA's SICSS program
+### [Organizer, Summer Institute in Computational Social Science (SICSS)-UCLA](https://sicss.io/2023/ucla/)
 * Delivered lectures on machine learning applications in social sciences
 * Taught integration of computational methods with sociological research
