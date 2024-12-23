@@ -18,7 +18,7 @@ My goal is to inspire students to harness sociology's analytical power while dev
 
 ## Experience
 ------
-Drawing from the experiences below, I have developed an approach that integrates theoretical rigor with practical application, empowering students to critically analyze social phenomena and become impactful agents of change.
+Drawing from the experiences below, I have developed an approach that integrates theoretical frameworks with advanced methodological techniques, empowering students to critically analyze social phenomena using rigorous quantitative tools.
 
 ### [Asian Development Bank Institute, Tokyo](https://www.adb.org/adbi/main)
 * Designed policy dialogues and training programs 
