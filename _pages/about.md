@@ -21,7 +21,7 @@ My work has been published in several journals, including the _Journal for the S
 **I will be on the academic job market for the 2025–2026 academic year**, seeking tenure-track faculty positions in sociology or related fields, as well as postdoctoral opportunities. For further details about my research and teaching, please visit my [research](/research) and [teaching](/teaching) pages, or view my [CV](/files/CV_NJ.pdf).
 
 
-## News
+## Recent News
 ------
 <style>
   ul.news-list {
@@ -82,7 +82,6 @@ My work has been published in several journals, including the _Journal for the S
 <ul class="news-list">
   <!-- 2024 News - Visible by Default -->
   <li>
-    <div class="year-title">2024</div>
     <div class="news-content">
       <ul>
       <li> <b>Dec 2024:</b> I’m excited to serve on the organizing team for next summer’s RC28 Meeting at UCLA. We’re looking forward to welcoming submissions and fostering meaningful discussions on social mobility and inequality among stratification researchers from around the world.</li>
@@ -92,7 +91,7 @@ My work has been published in several journals, including the _Journal for the S
     </div>
   </li>
 
-  <!-- 2023 News - Hidden by Default -->
+  <!-- Old News - Hidden by Default -->
   <li>
     <a href="#news-2023">
     <div class="year-title" onclick="toggle_visibility(event, 'news-2023');">2023</div>
