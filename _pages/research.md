@@ -17,9 +17,9 @@ My research integrates three key perspectives:
 * **Institutional Analysis**: How do welfare state and mobility regimes shape the distribution of life risks and opportunities?
 * **Infracategorical Approach**: How do intersecting identities and resources create heterogeneous outcomes within seemingly similar groups?
 
-To capture these complex dynamics, I work with longitudinal panel data and develop innovative statistical and machine learning methods, particularly deep learning approaches. This allows me to model non-linear relationships of time-varying variables for longitudinal causal inference.
+To capture these complex dynamics, I work with **longitudinal panel data and advance statistical and machine learning approaches**. These methods allow me to model complex temporal relationships and develop new techniques for causal inference, with recent work exploring deep learning applications.
 
-The ultimate aim of my work is to inform civic and policy discussions, contributing to the development of robust social safety nets and more targeted, responsive interventions to reduce social disparities. 
+The ultimate aim of my work is to inform civic and policy discussions through rigorous analysis, contributing to the development of more effective social safety nets. By systematically examining how life risks intersect with social inequalities, my research provides evidence to help shape interventions that reduce disparities and support vulnerable populations across the life course.
 
 
 ## Dissertation Projects 
@@ -30,7 +30,6 @@ My dissertation, _Exploring Employment Patterns, Family Disruption, and Gender I
 * **In Chapter 2 (Job Displacement & Marriage Stability)**, I investigate how the relationship between job displacement and marital stability has evolved across generations with the NLSY-79 and NLSY-97 cohort data, emphasizing heterogeneity among younger cohort women. In the younger cohort, where women’s economic contributions are vital to household stability, job loss may trigger more complex responses based on their role as primary or co-equal earners, the timing of job loss relative to family formation, and their position in an increasingly polarized labor market. Through relative distribution methods, I capture nuanced patterns across the entire distribution of divorce risk.
 * **In Chapter 3 (Gender Dynamics After Job Loss)**, I examine the immediate aftermath of job displacement, analyzing how men and women differently adjust their time allocation between the labor market and household work. Using difference-in-differences estimation with the Panel Study of Income Dynamics, my analysis reveals that job displacement is a catalyst for gender specialization, widening disparities in how men and women allocate their time between market work and household responsibilities.
   
-My research aims to inform civic and policy discussions and contribute to the development of more effective social safety nets. By understanding how life disruptions interact with existing inequalities, my work can help better design interventions that reduce social disparities and support vulnerable populations during critical life transitions.
 
 
 
