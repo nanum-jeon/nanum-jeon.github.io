@@ -47,7 +47,7 @@ Methodologically, I specialize in applying and developing statistical and machin
 
   .year-title {
     font-weight: bold; /* Makes the year title bold */
-    font-size: 20px; /* Increases font size for better visibility */
+    font-size: inherit; /* Inherit from the parent container */
     margin-bottom: 5px; /* Adds spacing below the year title */
     cursor: pointer; /* Indicates that the title is clickable */
   }
