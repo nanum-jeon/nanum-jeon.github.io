@@ -18,8 +18,6 @@ My research focuses on the following interconnected areas: (1) the intersection 
 
 My papers have been published in several journals, including the _Journal for the Scientific Study of Religion_, _Journal of Marriage and Family_, and _Social Science Research_. My dissertation research has been recognized with funding and awards, including the [Donald J. Treiman Research Fellowship](https://ccpr.ucla.edu/funding/treiman-research-fellowship/) from the UCLA CCPR and a UCLA Dissertation Award. I have also received a nationally competitive scholarship from the [Kwanjeong Education Foundation](https://www.ikef.or.kr/) in Korea.
 
-Methodologically, I specialize in applying and developing statistical and machine learning approaches to sociological research, with a focus on advancing causal inference methods. At UCLA, I served as an organizer of the [Summer Institute in Computational Social Science (SICSS)-UCLA](https://sicss.io/2023/ucla/), which emphasized the integration of computational methods into social science research and causal inference. 
-
 **I will be on the academic job market for the 2025–2026 academic year**, seeking tenure-track faculty positions in sociology or related fields, as well as postdoctoral opportunities. For further details about my research and teaching, please see my full [CV](/files/CV_NJ.pdf). 
 
 
