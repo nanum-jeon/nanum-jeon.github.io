@@ -13,7 +13,7 @@ In summary, my research integrates three key perspectives:
 
 * **Life Course Perspective**: How do timing, duration, and sequences of divergent life trajectories create lasting inequalities?
 * **Institutional Analysis**: How do welfare state and mobility regimes shape the distribution of life risks and opportunities?
-* **Infracategorical Approach**: How do intersecting identities and resources create heterogeneous outcomes within seemingly similar groups?
+* **Infracategorical Approach**: How do disparate socioeconomimc resources and experiences create heterogeneous outcomes within seemingly similar groups?
 
 To capture these dynamics, I use **panel data** and advance **statistical and machine learning approaches**. These methods allow me to model complex temporal relationships and develop new techniques for causal inference, with recent work exploring deep learning applications.
 
