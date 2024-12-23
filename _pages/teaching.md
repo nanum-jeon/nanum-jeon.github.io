@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching: Integrating Sociological Analysis and Data Science"
+title: "Teaching: Bridging Sociological Analysis, Data Science, and Policy"
 permalink: /teaching/
 author_profile: true
 ---
