@@ -12,9 +12,8 @@ As a sociologist, I believe sociology education empowers students to critically 
 My goal is to inspire students to harness sociology's analytical power while developing robust data science skills. I create an engaging learning environment where students:
 
 * Learn quantitative methods and statistical techniques while grounding their analysis in sociological theory and frameworks
-* Develop critical thinking about social structures and inequality through data-driven investigation
+* Develop critical thinking about social stratification and inequality through data-driven investigation
 * Apply advanced analytical skills to address real-world policy challenges, transforming research into actionable insights
-* Build practical expertise in research design, data analysis, and the systematic study of social phenomena
 
 ## Experience
 ------
