@@ -29,4 +29,4 @@ Drawing from the experiences below, I have developed an approach that integrates
 * Led the planning and coordination of a 10-day Data Science for Social Science lecture series, managing venue
 logistics, syllabus development, and participant selection
 * Delivered lectures on machine learning applications in social sciences
-* Taught integration of computational methods with sociological research
+* Taught how to access panel data for social science research.
