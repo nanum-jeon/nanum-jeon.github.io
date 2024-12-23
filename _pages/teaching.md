@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching: Sociology as a Catalyst for Social Change"
+title: "Teaching: Integrating Sociological Analysis and Data Science"
 permalink: /teaching/
 author_profile: true
 ---
