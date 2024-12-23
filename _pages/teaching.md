@@ -19,7 +19,7 @@ My goal is to inspire students to harness sociology's analytical power while dev
 ------
 Drawing from the experiences below, I have developed an approach that integrates theoretical frameworks with advanced methodological techniques, empowering students to critically analyze social phenomena using rigorous quantitative tools.
 
-### [Capacity Building and Training Associate, Asian Development Bank Institute, Tokyo](https://www.adb.org/adbi/main](https://youtu.be/KPDE8us8jNg?si=eTsjLO3sBxVc8WgS)
+### [Capacity Building and Training Associate, Asian Development Bank Institute, Tokyo](https://youtu.be/KPDE8us8jNg?si=eTsjLO3sBxVc8WgS)
 * Designed policy dialogues and training programs 
 * Collaborated with Stanford University Leadership Academy
 * Helped created e-learning programs for government officials
