@@ -7,19 +7,19 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-My research bridges **two key fields in sociology**. The first examines how **welfare state and mobility regimes** shape life risks and disruptions, fundamentally influencing patterns of social inequality. The second investigates how **social institutions structure life trajectories**, exploring how they can either reinforce or mitigate social stratification. By connecting these distinct areas of inquiry, I examine how life risks unfold over time, materialize, and lead to specific consequences for social inequality.
+Life risks and disruptions are shaped by distinct welfare state and mobility regimes across countries, which fundamentally influence patterns of social inequality. Life course research examines how social institutions structure trajectories over time, affecting outcomes and either reinforcing or mitigating stratification patterns. Building on these insights, my research bridges social stratification and life course perspectives by analyzing how life risks unfold and materialize over time, leading to specific consequences for social inequality. 
 
-My research particularly highlights **intra-group inequality by race and gender**. I explore how different experiences with social institutions—including **college education, labor market participation, welfare receipt, and family dynamics** shape social stratification. This approach reveals how inequalities develop not just between different social groups, but also within these groups across the life course.
+A central focus of my research is **intra-group inequality**. I investigate how diverse experiences with social institutions shape patterns of social stratification. This approach not only examines inequalities between different social groups but also uncovers how these disparities develop within groups across the life course. 
 
-My research integrates three key perspectives:
+In summary, my research integrates three key perspectives:
 
 * **Life Course Perspective**: How do timing, duration, and sequences of divergent life trajectories create lasting inequalities?
 * **Institutional Analysis**: How do welfare state and mobility regimes shape the distribution of life risks and opportunities?
 * **Infracategorical Approach**: How do intersecting identities and resources create heterogeneous outcomes within seemingly similar groups?
 
-To capture these complex dynamics, I work with **longitudinal panel data and advance statistical and machine learning approaches**. These methods allow me to model complex temporal relationships and develop new techniques for causal inference, with recent work exploring deep learning applications.
+To capture these dynamics, I use **panel data** and advance **statistical and machine learning approaches**. These methods allow me to model complex temporal relationships and develop new techniques for causal inference, with recent work exploring deep learning applications.
 
-The ultimate aim of my work is to inform civic and policy discussions through rigorous analysis, contributing to the development of more effective social safety nets. By systematically examining how life risks intersect with social inequalities, my research provides evidence to help shape interventions that reduce disparities and support vulnerable populations across the life course.
+The ultimate aim of my work is to inform civic and policy discussions through rigorous analysis, contributing to the development of more effective social safety nets. By examining how life risks intersect with social inequalities, my research provides evidence to help shape interventions that reduce disparities and support vulnerable populations across the life course.
 
 
 ## Dissertation Projects 
