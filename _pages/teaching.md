@@ -17,7 +17,7 @@ My goal is to inspire students to harness sociology's analytical power while dev
 
 ## Experience
 ------
-Drawing from the experiences below, I have developed an approach that integrates theoretical frameworks with advanced methodological techniques, empowering students to critically analyze social phenomena using rigorous quantitative tools.
+Drawing from the experiences below, I have developed an approach that integrates theoretical frameworks with advanced methodological techniques, enabling students to critically analyze social phenomena using rigorous quantitative tools to foster actionable insight.
 
 ### [Capacity Building and Training Associate, Asian Development Bank Institute, Tokyo](https://youtu.be/KPDE8us8jNg?si=eTsjLO3sBxVc8WgS)
 * Designed policy dialogues and training programs 
