@@ -18,7 +18,7 @@ My research focuses on the following interconnected areas: (1) the intersection 
 
 My work has been published in several journals, including the _Journal for the Scientific Study of Religion_, _Journal of Marriage and Family_, and _Social Science Research_. My research has been recognized with funding and awards, including the [Donald J. Treiman Research Fellowship](https://ccpr.ucla.edu/funding/treiman-research-fellowship/) from the UCLA CCPR, the [Kawahara Fellowship](https://www.international.ucla.edu/japan/internal/4680), from the UCLA Terasaki Center for Japan Studies and a UCLA Dissertation Award. I have also received a nationally competitive scholarship from the [Kwanjeong Education Foundation](https://www.ikef.or.kr/) in Korea.
 
-**I will be on the academic job market for the 2025–2026 academic year**, seeking tenure-track faculty positions in sociology or related fields, as well as postdoctoral opportunities. For further details about my research and teaching, please visit my [research](/_pages/research.md) and [teaching](/_pages/teaching.md) pages, or view my [CV](/files/CV_NJ.pdf).
+**I will be on the academic job market for the 2025–2026 academic year**, seeking tenure-track faculty positions in sociology or related fields, as well as postdoctoral opportunities. For further details about my research and teaching, please visit my [research](/research) and [teaching](/teaching) pages, or view my [CV](/files/CV_NJ.pdf).
 
 
 ## News
