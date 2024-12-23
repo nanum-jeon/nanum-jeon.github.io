@@ -7,9 +7,7 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-Life risks and disruptions are shaped by distinct welfare state and mobility regimes across countries, which fundamentally influence patterns of social inequality. Life course research examines how social institutions structure life trajectories over time, affecting outcomes and either reinforcing or mitigating stratification patterns. Building on these insights, my research bridges social stratification and life course perspectives by analyzing how life risks unfold and materialize over time, leading to specific consequences for social inequality. 
-
-A central focus of my research is intra-group inequality. I investigate how disparate socioeconomic resources and experiences with social institutions shape patterns of social stratification not only between different social groups but also within seemingly homogeneous groups across the life course. 
+Life risks and disruptions are shaped by distinct welfare state and mobility regimes across countries, which fundamentally influence patterns of social inequality. Life course research examines how social institutions structure life trajectories over time, affecting outcomes and either reinforcing or mitigating stratification patterns. Building on these insights, my research bridges social stratification and life course perspectives by analyzing how life risks unfold and materialize over time, leading to specific consequences for social inequality. A central focus of my research is intra-group inequality. I investigate how disparate socioeconomic resources and experiences with social institutions shape patterns of social stratification not only between different social groups but also within seemingly homogeneous groups across the life course. 
 
 In summary, my research integrates three key perspectives:
 
