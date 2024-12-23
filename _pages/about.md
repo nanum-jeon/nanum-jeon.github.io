@@ -14,7 +14,7 @@ I am a Ph.D. candidate in [Sociology](https://soc.ucla.edu/) and an M.S. student
 
 ## Research Interests 
 ------
-My research focuses on the following key areas: (1) **The intersection of social stratification and life course studies**, using disruptive life events—such as divorce or job displacement—as critical lenses to examine inequality. (2) **Intra-group inequality over the life course**, analyzing how race, gender, and other intersecting identities create divergent trajectories within social groups. (3) **The application and development of statistical and machine learning methods**, advancing sociological research and addressing questions of causality.
+My research focuses on the following interconnected areas: (1) the intersection of **social stratification** and **life course** studies, using life disruptions as critical lenses to examine inequality; (2) **intra-group inequality**, analyzing how intersecting social positions and resources create divergent outcomes within groups; and (3) the advancement of **statistical and machine learning methods** for sociological research and causal inference.
 
 My papers have been published in several journals, including the _Journal for the Scientific Study of Religion_, _Journal of Marriage and Family_, and _Social Science Research_. My dissertation research has been recognized with funding and awards, including the [Donald J. Treiman Research Fellowship](https://ccpr.ucla.edu/funding/treiman-research-fellowship/) from the UCLA CCPR and a UCLA Dissertation Award. I have also received a nationally competitive scholarship from the [Kwanjeong Education Foundation](https://www.ikef.or.kr/) in Korea.
 
