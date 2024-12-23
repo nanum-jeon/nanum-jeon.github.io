@@ -23,7 +23,7 @@ The ultimate aim of my work is to inform civic and policy discussions, contribut
 
 
 ## Dissertation Projects 
-
+------
 My dissertation, _Exploring Employment Patterns, Family Disruption, and Gender Inequality_, examines how disruptive life events, specifically divorce and job displacement, interact with gender to shape post-event social inequality using machine learning approaches. My research reveals how women navigate particular vulnerabilities during life crises, influenced by persistent labor market inequalities and gender role expectations.
 
 * **In Chapter 1 (Post-Divorce Trajectories)**, I examine divorce as a critical turning point that disproportionately disrupts women’s life trajectories. Using sequence analysis, causal inference, and machine learning methods with data from the National Longitudinal Survey of Youth (NLSY) 1979, I identify modal patterns of post-divorce trajectories in employment, remarriage, and welfare receipt. Through g-computation using machine learning, I demonstrate how these modal trajectories generate cumulative inequality, with their effects further amplified by women’s pre-divorce socioeconomic positions.
