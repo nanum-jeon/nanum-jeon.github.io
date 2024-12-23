@@ -33,6 +33,7 @@ Methodologically, I specialize in applying and developing statistical and machin
   }
 
   ul.news-list li {
+    font-size: 16px; /* Explicitly set the font size for list items */
     margin-bottom: 20px; /* Adds space between news blocks */
   }
 
