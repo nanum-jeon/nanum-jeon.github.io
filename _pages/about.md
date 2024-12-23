@@ -85,9 +85,9 @@ Methodologically, I specialize in applying and developing statistical and machin
     <div class="year-title">2024</div>
     <div class="news-content">
       <ul>
-        <li>Dec 2024: I will be serving on the organizing committee for the 2025 RC28 UCLA Summer Meeting.</li>
-        <li>Oct 2024: I am organizing a regular session on Work and Family for the 2025 Annual Meeting of American Sociological Association. </li>
-        <li>Feb 2024: I was awarded a UCLA dissertation fellowship.</li>
+      <li> <b>Dec 2024:</b> I’m excited to serve on the organizing team for next summer’s RC28 Meeting at UCLA. We’re looking forward to welcoming submissions and fostering meaningful discussions on social mobility and inequality among stratification researchers from around the world.</li>
+<li> <b>Oct 2024:</b> I’m pleased to share that I’ll be organizing a regular session on Work and Family for ASA 2025. If you’re conducting research in this area, I’d be glad to see your work—please consider submitting.</li>
+<li> <b>Feb 2024:</b> I’m grateful to have received UCLA’s dissertation fellowship, which is supporting my research on life course inequalities.</li>
       </ul>
     </div>
   </li>
@@ -99,7 +99,7 @@ Methodologically, I specialize in applying and developing statistical and machin
 </a>
     <div id="news-2023" class="news-content hidden">
       <ul>
-        <li>June 2023: I organized  SICSS (Summer Institute in Computational Social Science)-UCLA with a focus on causal inference </li>
+        <li> <b>June 2023:</b> I had the privilege of organizing SICSS-UCLA (Summer Institute in Computational Social Science) with a focus on causal inference. It was an inspiring experience to connect with scholars passionate about leveraging computational methods for social science research. Learn more about SICSS here: <a href="https://sicss.io">https://sicss.io</a>.</li>
       </ul>
     </div>
   </li>
