@@ -87,7 +87,7 @@ My work has been published in several journals, including the _Journal for the S
       <ul>
       <li> <b>Dec 2024:</b> I’m excited to serve on the organizing team for next summer’s RC28 Meeting at UCLA. We’re looking forward to welcoming submissions and fostering meaningful discussions on social mobility and inequality among stratification researchers from around the world.</li>
 <li> <b>Oct 2024:</b> I’m pleased to share that I’ll be organizing a regular session on Work and Family for ASA 2025. If you’re conducting research in this area, I’d be glad to see your work—please consider submitting.</li>
-<li> <b>Feb 2024:</b> I’m grateful to have received UCLA’s dissertation fellowship, which is supporting my research on life course inequalities.</li>
+<li> <b>Feb 2024:</b> I’m grateful to have received UCLA’s dissertation award, which is supporting my research on life course inequalities.</li>
       </ul>
     </div>
   </li>
