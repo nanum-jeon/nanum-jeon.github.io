@@ -21,8 +21,8 @@ Drawing from the experiences below, I have developed an approach that integrates
 
 ### [Capacity Building and Training Associate, Asian Development Bank Institute, Tokyo](https://youtu.be/KPDE8us8jNg?si=eTsjLO3sBxVc8WgS)
 * Designed policy dialogues and training programs 
-* Collaborated with Stanford University Leadership Academy
 * Facilitated discussions on development practices across Asia
+* Collaborated with Stanford University Leadership Academy
 
 ### [Organizer, Summer Institute in Computational Social Science (SICSS)-UCLA](https://sicss.io/2023/ucla/)
 * Led the planning and coordination of a 10-day Data Science for Social Science lecture series, managing venue
