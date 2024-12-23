@@ -36,7 +36,7 @@ My work has been published in several journals, including the _Journal for the S
 
   .news-content {
     display: block; /* Default visibility for 2024 news */
-    padding-top: 10px; /* Adds spacing above content */
+    padding-top: 0px; /* Adds spacing above content */
   }
 
   .news-content.hidden {
