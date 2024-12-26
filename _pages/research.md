@@ -20,9 +20,7 @@ To capture these dynamics, I use **panel data** and advance **statistical and ma
 The ultimate aim of my work is to inform civic and policy discussions through rigorous analysis, contributing to the development of more effective social safety nets. By examining how life risks intersect with social inequalities, my research provides evidence to help shape interventions that reduce disparities and support vulnerable populations across the life course.
 
 
-## Dissertation  
-------
-My dissertation, _Exploring Employment Patterns, Family Disruption, and Gender Inequality_, examines how disruptive life events, specifically divorce and job displacement, interact with gender to shape post-event social inequality using machine learning approaches. My research reveals how women navigate particular vulnerabilities during life crises, influenced by persistent labor market inequalities and gender role expectations.
+
 
 
 
