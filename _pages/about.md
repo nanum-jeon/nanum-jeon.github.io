@@ -84,6 +84,7 @@ My work has been published in several journals, including the _Journal for the S
   <li>
     <div class="news-content">
       <ul>
+      <li> <b>Jan 2025:</b> I’m happy to share that I will be participating in a contributors’ workshop to present our review paper on causal machine learning for sociology for the 2026 special issue of Kölner Zeitschrift für Soziologie und Sozialpsychologie on 'Explanation and Causality in the Social Sciences' at Johannes Gutenberg University in April 2025. I am excited to gain new perspectives on causal inference and sociology and to connect with other scholars! </li>
       <li> <b>Dec 2024:</b> I’m excited to serve on the organizing team for next summer’s RC28 Meeting at UCLA. We’re looking forward to welcoming submissions and fostering meaningful discussions on social mobility and inequality among stratification researchers from around the world.</li>
 <li> <b>Oct 2024:</b> I’m pleased to share that I’ll be organizing a regular session on Work and Family for ASA 2025. If you’re conducting research in this area, I’d be glad to see your work—please consider submitting.</li>
 <li> <b>Feb 2024:</b> I’m grateful to have received UCLA’s dissertation award, which is supporting my research on life course inequalities.</li>
