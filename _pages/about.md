@@ -83,7 +83,8 @@ My work has been published in several journals, including the _Journal for the S
   <!-- 2025 News - Visible by Default -->
   <li>
     <div class="news-content">
-      <ul>
+      <ul> 
+        <li><b>Feb 2025:</b> I’m happy to share that I will be participating in the Max Planck Institute for Demographic Research's summer visit program in Rostock, Germany; my research will focus on machine learning for life course trajectory. </li>
         <li><b>Jan 2025:</b> I’m happy to share that I will be participating in a contributors’ workshop to present our review paper on causal machine learning for sociology for the 2026 special issue of Kölner Zeitschrift für Soziologie und Sozialpsychologie on 'Explanation and Causality in the Social Sciences' at Johannes Gutenberg University in April 2025. I am excited to gain new perspectives on causal inference and sociology and to connect with other scholars!</li>
       </ul>
     </div>
