@@ -19,13 +19,13 @@ My goal is to inspire students to harness sociology's analytical power while dev
 ------
 Drawing from the experiences below, I have developed an approach that integrates theoretical frameworks with advanced methodological techniques, enabling students to critically analyze social phenomena using rigorous quantitative tools to foster actionable insight.
 
-## [Organizer, Summer Institute in Computational Social Science (SICSS)-UCLA](https://sicss.io/2023/ucla/)
+### [Organizer, Summer Institute in Computational Social Science (SICSS)-UCLA](https://sicss.io/2023/ucla/)
 * Led the planning and coordination of a 10-day Data Science for Social Science lecture series, managing venue
 logistics, syllabus development, and participant selection
 * Delivered lectures on machine learning applications in social sciences
 * Taught how to access panel data for social science research.
 
-## [Capacity Building and Training Associate, Asian Development Bank Institute, Tokyo](https://youtu.be/KPDE8us8jNg?si=eTsjLO3sBxVc8WgS)
+### [Capacity Building and Training Associate, Asian Development Bank Institute, Tokyo](https://youtu.be/KPDE8us8jNg?si=eTsjLO3sBxVc8WgS)
 * Designed policy dialogues and training programs 
 * Facilitated discussions on development practices across Asia
 * Collaborated with Stanford University Leadership Academy
