@@ -30,6 +30,7 @@
     max-width: none !important; /* Prevent unwanted width constraints */
     margin: 0 auto; /* Center if necessary */
     padding: 0; /* Remove unnecessary padding */
+    font-family: $sans-serif-narrow;   
 }
    
     @include breakpoint($x-large) {
