@@ -21,7 +21,7 @@
     @include clearfix;
     padding: 1em 1em 1em;
     font-family: $sans-serif-narrow;
-    background: transparent; 
+    background: transparent !important; /* Ensure no white box */ 
 
     @include breakpoint($x-large) {
       max-width: $x-large;
