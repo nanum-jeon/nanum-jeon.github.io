@@ -4,9 +4,9 @@
 
 .masthead {
   position: fixed;
-  background: white !important;
-  /*  border-bottom: 1px solid $border-color;  */
-  border-bottom: 1px solid #2774AE;  
+ /* background: white !important; */
+  background: #2774AE ! !important; 
+  border-bottom: 1px solid $border-color;  
   height: $masthead-height;
   top: 0;
   width: 100%;
@@ -17,13 +17,21 @@
           animation-delay: 0.15s;
   z-index: 20;
 
-  &__inner-wrap {
+/*  &__inner-wrap {
     @include container; 
     @include clearfix;
     padding: 1em 1em 1em;
     font-family: $sans-serif-narrow;
     background: white !important; /* Force the background color */
 
+    &__inner-wrap {
+    background: #2774AE !important; /* Force UCLA Blue */
+    width: 100% !important; /* Ensure full width */
+    max-width: none !important; /* Prevent unwanted width constraints */
+    margin: 0 auto; /* Center if necessary */
+    padding: 0; /* Remove unnecessary padding */
+}
+   
     @include breakpoint($x-large) {
       max-width: $x-large;
     }
