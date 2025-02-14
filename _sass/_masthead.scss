@@ -25,6 +25,7 @@
     background: white !important; /* Force the background color */
 
     &__inner-wrap {
+    @include clearfix;
     background: #2774AE !important; /* Force UCLA Blue */
     width: 100% !important; /* Ensure full width */
     max-width: none !important; /* Prevent unwanted width constraints */
