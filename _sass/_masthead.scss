@@ -17,11 +17,11 @@
   z-index: 20;
 
   &__inner-wrap {
-    /* Remove @include container; */
+    @include container; 
     @include clearfix;
     padding: 1em 1em 1em;
     font-family: $sans-serif-narrow;
-    background: transparent !important; /* Ensure no white box */ 
+    background: #2774AE !important; /* Force the background color */
 
     @include breakpoint($x-large) {
       max-width: $x-large;
