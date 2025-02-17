@@ -2,6 +2,6 @@
 layout: none
 title: "CV"
 permalink: /cv/
-redirect_to: /files/CV_NJ.pdf
+redirect_to: /assets/pdf/CV_NJ.pdf
 ---
 
