@@ -6,7 +6,7 @@ subtitle: <a href='#'>Ph.D. Candidate in Sociology, UCLA </a>. Address. Contacts
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Profile_202406.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
@@ -26,8 +26,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
-Hello! 
 
 I am a Ph.D. candidate in [Sociology](https://soc.ucla.edu/) and an M.S. student in [Statistics and Data Science](https://statistics.ucla.edu/) at the University of California, Los Angeles (UCLA). I am affiliated with the [Inequality Data Science Lab (IDS-Lab)](https://www.inequalitydatasciencelab.org/) and the [California Center for Population Research (CCPR)](https://ccpr.ucla.edu/). Prior to UCLA, I worked in public policy think tanks, including the [Asian Development Bank Institute](https://www.adb.org/adbi/main) in Tokyo, Japan. I hold an M.P.P. from the University of Tokyo in Japan and a B.A. in Sociology from Ewha Womans University in South Korea, where I completed the [Scranton Honors Program](https://myr.ewha.ac.kr/escranton/shp/about-shp.do) with a focus in Society and Justice, an interdisciplinary academic track. 
 
