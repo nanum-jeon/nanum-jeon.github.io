@@ -2,10 +2,12 @@
    MASTHEAD
    ========================================================================== */
 
+  
+
 .masthead {
   position: fixed;
-  background: white;
-  border-bottom: 1px solid $border-color;
+  background: white !important;
+    border-bottom: 1px solid white;
   height: $masthead-height;
   top: 0;
   width: 100%;
@@ -21,6 +23,9 @@
     @include clearfix;
     padding: 1em 1em 1em;
     font-family: $sans-serif-narrow;
+    border-bottom: none !important;
+    background: white !important;
+    box-shadow: none !important;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -47,12 +52,13 @@
 }
 
 .masthead__menu-item {
+  background-color: var(--global-bg-color);
   display: block;
   list-style-type: none;
   white-space: nowrap;
 
   &--lg {
-    padding-right: 3em;
+    padding-right: 2em;
     font-weight: 700;
   }
 }

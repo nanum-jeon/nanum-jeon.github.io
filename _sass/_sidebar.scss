@@ -13,11 +13,20 @@
   @include clearfix();
   margin-bottom: 1em;
 
-  @media screen and (min-width: $sidebar-screen-min-width) {
+  /*@media screen and (min-width: $sidebar-screen-min-width) {
     height: 100vh;
     overflow-y: auto;               // Add scrollbar if the sidebar is too long
     position: fixed;
     padding-top: $masthead-height;
+  }*/
+
+  @media screen and (max-width: 768px) {
+  .sidebar {
+    position: relative !important; /* Remove fixed positioning */
+    height: auto !important; /* Allow natural height */
+    width: 100% !important; /* Make it full width */
+    padding-top: 0 !important; /* Adjust spacing */
+    overflow-y: visible !important; /* Ensure content is visible */
   }
 
   @include breakpoint($large) {
@@ -33,7 +42,7 @@
 
   @include breakpoint($x-large) {
     max-width: $sidebar-link-max-width;
-    padding-right: 0;
+    padding-right: 15px;
   }
 
   h2, h3, h4, h5, h6 {
@@ -80,6 +89,7 @@
   display: table-cell;
   vertical-align: top;
   width: 36px;
+  object-fit: cover; 
   // set width only, for non-square avatars
   // height: 36px;
 
@@ -91,7 +101,7 @@
 
   img {
     max-width: 175px;
-    border-radius: 50%;
+    border-radius: 0%;
 
     @include breakpoint($large) {
       padding: 5px;
@@ -110,8 +120,8 @@
   @include breakpoint($large) {
     display: block;
     width: 100%;
-    padding-left: 0;
-    padding-right: 0;
+    padding-left: 15px;
+    padding-right: 15px;
   }
 }
 
