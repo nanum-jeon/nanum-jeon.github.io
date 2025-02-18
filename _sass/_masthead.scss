@@ -2,10 +2,12 @@
    MASTHEAD
    ========================================================================== */
 
+  
+
 .masthead {
   position: fixed;
   background: white !important;
-  border-bottom: 1px solid white !important;
+    border-bottom: 1px solid white;
   height: $masthead-height;
   top: 0;
   width: 100%;
