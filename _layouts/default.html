@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  {% seo %}
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="{{ '/' | relative_url }}" class="site-title">{{ site.title }}</a>
+      <div class="nav-links">
+        <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="active"{% endif %}>About</a>
+        <a href="{{ '/cv' | relative_url }}"{% if page.url == '/cv' %} class="active"{% endif %}>CV</a>
+        <a href="{{ '/teaching' | relative_url }}"{% if page.url == '/teaching' %} class="active"{% endif %}>Teaching</a>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer>
+    <div class="footer-content">
+      <p>Department of Sociology & Department of Statistics and Data Science<br>
+      University of California, Los Angeles<br>
+      Haines Hall 228, 375 Portola Plaza, Los Angeles, CA 90095</p>
+    </div>
+  </footer>
+</body>
+</html>
